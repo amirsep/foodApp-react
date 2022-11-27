@@ -8,7 +8,7 @@ const DUMMY_MEALS = [
     id: "m1",
     name: "Palak Paneer",
     description: "Spinach curry with fresh cheese.",
-    price: 149,
+    price: 199,
   },
   {
     id: "m2",
@@ -35,6 +35,45 @@ const DUMMY_MEALS = [
     description:
       "fresh herbs and spices are all loaded with vitamins and minerals.",
     price: 199,
+  },
+  {
+    id: "m6",
+    name: "Butter Naan",
+    description: "Naan is a leavened, oven-baked flatbread.",
+    price: 30,
+  },
+  {
+    id: "m7",
+    name: "Matar Paneer",
+    description: " It’s made up of a yummy tomato sauce over paneer and peas.",
+    price: 99,
+  },
+  {
+    id: "m8",
+    name: "Lassi",
+    description: "Lassi’s are yogurt-based drinks made with water.",
+    price: 40,
+  },
+  {
+    id: "m9",
+    name: "Masala dosa",
+    description:
+      "dosas are made from a thin batter consisting of rice, flour and lentils.",
+    price: 90,
+  },
+  {
+    id: "m10",
+    name: "Vada pav",
+    description:
+      "vada pav consists of a deep fried potato dumpling placed neatly inside a small bun.",
+    price: 40,
+  },
+  {
+    id: "m11",
+    name: "Idli",
+    description:
+      "steaming a batter consisting of fermented black lentils and rice.",
+    price: 20,
   },
 ];
 
