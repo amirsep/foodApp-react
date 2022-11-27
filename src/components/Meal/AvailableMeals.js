@@ -14,7 +14,7 @@ const DUMMY_MEALS = [
     id: "m2",
     name: "Biryani",
     description: " A meat-and-rice mixed dish !",
-    price: 350,
+    price: 100,
   },
   {
     id: "m3",
