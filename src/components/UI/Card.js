@@ -5,6 +5,15 @@ const Card = (props) => {
   return (
     <>
       <div className={classes.card}>{props.children}</div>
+      <p
+        style={{
+          color: "white",
+          display: " flex",
+          justifyContent: " center",
+        }}
+      >
+        Made by - Mohmmad Amir || ReactJs Developer
+      </p>
     </>
   );
 };
