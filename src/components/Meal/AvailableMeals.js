@@ -6,27 +6,35 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 22.99,
+    name: "Palak Paneer",
+    description: "Spinach curry with fresh cheese.",
+    price: 290,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 16.5,
+    name: "Biryani",
+    description: " A meat-and-rice mixed dish !",
+    price: 350,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
+    name: "Burger",
     description: "American, raw, meaty",
-    price: 12.99,
+    price: 100,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
+    name: "Butter Chicken",
+    description:
+      "curry made from chicken with a spiced tomato and butter sauce.",
+    price: 199,
+  },
+  {
+    id: "m5",
+    name: "Fish Curry",
+    description:
+      "fresh herbs and spices are all loaded with vitamins and minerals.",
+    price: 199,
   },
 ];
 
