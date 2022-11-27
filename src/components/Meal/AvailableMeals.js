@@ -8,7 +8,7 @@ const DUMMY_MEALS = [
     id: "m1",
     name: "Palak Paneer",
     description: "Spinach curry with fresh cheese.",
-    price: 290,
+    price: 149,
   },
   {
     id: "m2",
