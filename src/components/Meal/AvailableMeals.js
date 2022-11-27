@@ -75,6 +75,13 @@ const DUMMY_MEALS = [
       "steaming a batter consisting of fermented black lentils and rice.",
     price: 20,
   },
+   {
+    id: "m12",
+    name: "Mysore pak sweet",
+    description:
+      "Mysore pak is made of besan, plain flour, sugar and loads of fat.",
+    price: 40,
+  },
 ];
 
 const AvailableMeals = () => {
