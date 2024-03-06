@@ -12,7 +12,7 @@ const Card = (props) => {
           justifyContent: " center",
         }}
       >
-        Made by - Mohmmad Amir || ReactJs Developer
+        Made by ❤️ - Mohammad Amir | ReactJs Developer
       </p>
     </>
   );
